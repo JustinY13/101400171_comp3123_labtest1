@@ -35,7 +35,7 @@ function removeLogFiles(){
       });
     }
 }
-//createLogFiles();
+createLogFiles();
 removeLogFiles();
 
 
